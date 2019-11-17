@@ -17,4 +17,4 @@ The steps to compile and get started with development are covered in detail in d
 
 ### Support ###
 
-Good Themes is happy to provide support for issues. Shoot us an email at support@goodthemes.co and we'll get you squared away.
+Good Themes is happy to provide support for issues. Shoot us an email at support@goodthemes.co and we'll get you squared away.# myfirstrepo
